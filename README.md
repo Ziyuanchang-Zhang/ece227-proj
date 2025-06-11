@@ -23,7 +23,7 @@ This repository contains the full code, data, and experiment results for our inf
 
 Below is a full visualization of the Facebook combined network:
 
-<img src="facebook_network.png" width="600"/>
+<img src="facebook_network/facebook_network.png" width="600"/>
 
 > Nodes are colored and structured based on community clustering.
 
@@ -44,14 +44,6 @@ Below is a full visualization of the Facebook combined network:
 | --------------------------- | -------------------------------------------------------------------- |
 | `facebook_simulation.ipynb` | Full experiment pipeline, IC model simulation, algorithm comparison. |
 | `facebook_CELF.py`          | Dedicated CELF implementation (standalone script).                   |
-
----
-
-## 🚀 Project Highlights
-
-* End-to-end reproducible experiment pipeline.
-* Incorporates both semantic (feature-based) and structural (circle-based) priors.
-* Includes efficiency-performance trade-off analysis for different algorithms.
 
 ---
 
