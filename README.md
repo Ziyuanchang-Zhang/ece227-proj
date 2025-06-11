@@ -21,11 +21,9 @@ This repository contains the full code, data, and experiment results for our inf
 
 ### 📷 Network Visualization
 
-Below is a full visualization of the Facebook combined network:
+Below is a full visualization of the Facebook network:
 
 <img src="facebook_network/facebook_network.png" width="600"/>
-
-> Nodes are colored and structured based on community clustering.
 
 ---
 
