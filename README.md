@@ -40,6 +40,7 @@ Below is a full visualization of the Facebook network:
 
 | File                        | Description                                                          |
 | --------------------------- | -------------------------------------------------------------------- |
+| `IC.ipynb` | Simple IC model testing on toy graph for model validation. |
 | `facebook_simulation.ipynb` | Full experiment pipeline, IC model simulation, algorithm comparison. |
 | `facebook_CELF.py`          | Dedicated CELF implementation (standalone script).                   |
 
