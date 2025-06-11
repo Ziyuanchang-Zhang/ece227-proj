@@ -51,6 +51,10 @@ Below is a full visualization of the GrQc collaboration network:
 * Feature-based IMM (feature activity integrated)
 * Circle-based IMM (ego-circles for diversity-aware seeds)
 * Weighted Circle-based IMM
+* M-Greedy
+* D-Greedy
+* Degree Discount
+* Expected Benefit
 ---
 
 ## 💻 Code Components
@@ -60,6 +64,7 @@ Below is a full visualization of the GrQc collaboration network:
 | `IC.ipynb`                  | Simple IC model testing on toy graph for model validation.           |
 | `facebook_simulation.ipynb` | Full experiment pipeline, IC model simulation, algorithm comparison. |
 | `facebook_CELF.py`          | Dedicated CELF implementation (standalone script).                   |
+| `collaboration_network.ipynb`| Full experiment pipeline, models simulation, algorithms comparison. |
 
 ---
 
