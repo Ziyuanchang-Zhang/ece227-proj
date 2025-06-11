@@ -9,8 +9,8 @@ import heapq
 # === Parameter Configuration ===
 input_file = "facebook_combined.txt"
 p = 0.1
-num_seeds = 40
-steps = 20  # Number of repetitions for each IC simulation
+num_seeds = 40 # 10, 20, 30
+steps = 1000  # Number of repetitions for each IC simulation
 
 # === Step 1: Build the graph (bidirectional edges, directed graph) ===
 print("Loading graph...")
